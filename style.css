@@ -19,5 +19,8 @@ nav > div:nth-of-type(2){
 font-family: "AG Schulbuch BQ Reguler";
 src: url("AG Schulbuch BQ Reguler.ttf");
 
+}
 
+.logo {
+  width: 300px
 }
