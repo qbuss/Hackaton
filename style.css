@@ -1,0 +1,23 @@
+html{
+
+}
+
+nav{
+  display: flx;
+  justify-content: space-around;
+
+}
+
+nav > div:nth-of-type(2){
+  display: flex;
+  justify-content: space-between;
+  width:50%;
+  border:2px solid #000;
+}
+
+@font-face {
+font-family: "AG Schulbuch BQ Reguler";
+src: url("AG Schulbuch BQ Reguler.ttf");
+
+
+}
